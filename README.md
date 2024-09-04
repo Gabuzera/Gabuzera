@@ -1,6 +1,6 @@
 ### Olá! eu sou o Felipe Ferreira ✋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ferreirabjj/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCurakzUEb2RNzk5D-Zh9UdQ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flp_developer/)
+[![YouTube](https://www.youtube.com/@flpdev)
 
 ## Tecnologias do meu dia a dia
 
